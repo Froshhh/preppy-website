@@ -1,9 +1,9 @@
 body {
-  background: whitesmoke;
+  background: black;
 }
 
 h1 {
-  color: greenyellow;
+  color: blue;
   text-align: center;
   font-size: x-large;
   font: arial;
@@ -13,5 +13,21 @@ p {
   color: blue;
   text-align: center;
   font-size: xx-large;
-  font: Comic;
+  font: comic;
+}
+
+h2 {
+  color: red;
+  font: arial;
+}
+
+ol {
+  color: green;
+  text-align: left;
+  font-size: medium;
+}
+
+img {
+  width: 50%;
+  height: auto;
 }
